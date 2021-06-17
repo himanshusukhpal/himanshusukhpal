@@ -14,11 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/himanshusukhpal"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=himanshusukhpal&show_icons=true&hide=stars" align="right" height="150" /></a>
+<a href="https://github.com/himanshusukhpal">
 
-Hi, I'am Himanshu Sukhpal
+  Hello,
 
-
-I am a Software Engineer skilled in Full Stack Development with LAMP & MEAN Stack.
+  I am a FrontEnd Engineer with MEAN stack development experience for past 4 years. 
+  I work with Ionic and Capacitor to deploy iOS, Android and Web apps from one codebase.
+  
+  My experience entails extensive use of 
+    - Angular
+    - Ionic and Capacitor
+    - Firebase
+    - Android Studio
+    - XCode
+    - Google Play Console
+    - App Store Connect
+  
+  
+<img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=himanshusukhpal&show_icons=true&hide=stars" align="right" height="150" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusukhpal&layout=compact)](https://github.com/himanshusukhpal/profile)
