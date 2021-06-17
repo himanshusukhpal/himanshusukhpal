@@ -24,7 +24,6 @@ Here are some ideas to get you started:
       <li> Firebase and Google Cloud Console </li>
       <li> Android Studio and Google Play Console </li>
       <li> Xcode, Apple Developer and App Store Connect</li>
-      <li> Ionic and Capacitor</li>
     </ul>
   
   Top Launguages <br>
