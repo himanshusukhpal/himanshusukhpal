@@ -17,14 +17,15 @@ Here are some ideas to get you started:
   I am a FrontEnd Engineer with MEAN stack development experience for past 4 years. 
   I work with Ionic and Capacitor to deploy iOS, Android and Web apps from one codebase.
   
-  My experience entails extensive use of 
-    - Angular
-    - Ionic and Capacitor
-    - Firebase
-    - Android Studio
-    - XCode
-    - Google Play Console
-    - App Store Connect
+  My experience entails extensive use of <br>
+    <ol>
+      <li>Angular</li>
+      <li> Ionic and Capacitor </li>
+      <li> Firebase and Google Cloud Console </li>
+      <li> Android Studio and Google Play Console </li>
+      <li> Xcode, Apple Developer and App Store Connect</li>
+      <li> Ionic and Capacitor</li>
+    </ol>
   
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
