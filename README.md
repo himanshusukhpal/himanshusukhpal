@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
   Hello,
 
-  I am a FrontEnd Engineer with MEAN stack development experience for past 4 years. 
+  I am a FrontEnd Engineer with MEAN stack development experience for past 4 years. <br>
   I work with Ionic and Capacitor to deploy iOS, Android and Web apps from one codebase.
   
   My experience entails extensive use of
