@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/himanshusukhpal"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=himanshusukhpal&show_icons=true&hide=stars" align="right" height="150" /></a>
+
+Hi, I'am Sahil
+
+
+I am a Software Engineer skilled in Full Stack Development with LAMP & MEAN Stack.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusukhpal)](https://github.com/himanshusukhpal/profile)
