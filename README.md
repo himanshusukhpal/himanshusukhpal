@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/himanshusukhpal">
-
   Hello,
 
   I am a FrontEnd Engineer with MEAN stack development experience for past 4 years. 
