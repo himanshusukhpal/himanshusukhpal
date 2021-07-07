@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 -->
   Hello,
 
-  I am a FrontEnd Engineer with MEAN stack development experience for past 4 years. <br>
-  I work with Ionic and Capacitor to deploy iOS, Android and Web apps from one codebase.
-  
-  My experience entails extensive use of
+  I have worked with Ionic and Capacitor to deploy iOS, Android and Web apps from one codebase, which entailed extensive use of
     <ul>
-      <li>Angular</li>
+      <li> Angular and React </li>
       <li> Ionic and Capacitor </li>
       <li> Firebase and Google Cloud Console </li>
       <li> Android Studio and Google Play Console </li>
